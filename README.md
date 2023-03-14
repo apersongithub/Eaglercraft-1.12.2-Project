@@ -54,3 +54,17 @@ https://discord.gg/GMhmEWrr5d
 Currently in development by aperson and other people willing to help.
 - About 3% done
 - Expected release is near the end of July
+##plans
+
+1. Deeply examine EC's source code to get a glimpse of what we're dealing with
+2. Use the EC's source code for help creating the 1.12 client
+3. Get the source code for 1.12
+4. Add opengl emulators and apis
+5. Making it compatible for browsers
+
+...
+6. create a bungee server
+
+----------------------------------------------------
+
+Eaglercraft uses the decompiled source of the official version of Minecraft 1.5.2 from Mojang decompiled by MCP http://www.modcoderpack.com/ and compiled to Javascript using TeaVM https://teavm.org/. Therefore it can join any Minecraft 1.5.2 server, as it is really running (a modified version of) Minecraft 1.5.2 in the browser. However, due to CORS restrictions it must use a modified version of Bungeecord which proxies the browser's Websocket connection to the pure TCP connection used by Minecraft. For graphics, a custom compatibility layer created by me allows the fixed function OpenGL 1.3 based rendering engine mojang uses to operate through an HTML5 WebGL canvas with minimal changes to the source.
