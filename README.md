@@ -1,5 +1,5 @@
-# Eaglercraft 1.13 Project
-- Currently this is a fork of the 1.8 repository but will have 1.9 files as I start updating...
+# Eaglercraft 1.12 Project
+- Currently this is a fork of the 1.8 repository but will have 1.12 files as I start updating...
 
 ![EaglercraftX 1.8 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
 
