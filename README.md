@@ -54,7 +54,7 @@ https://discord.gg/GMhmEWrr5d
 Currently in development by aperson and other people willing to help.
 - About 3% done
 - Expected release is near the end of July
-##plans
+## plans
 
 1. Deeply examine EC's source code to get a glimpse of what we're dealing with
 2. Use the EC's source code for help creating the 1.12 client
