@@ -1,5 +1,5 @@
 # Eaglercraft 1.12 Project
-- Currently this is a fork of the 1.8 repository but will have 1.12 files as I start updating...
+- This is currently a fork of the 1.8 repository but it will have 1.12 files as I start updating it...
 
 ![EaglercraftX 1.8 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
 
@@ -11,7 +11,7 @@
 
 ### This repository WILL contains:
 
- - **Utilities to decompile Minecraft 1.9 and apply patch files to it**
+ - **Utilities to decompile Minecraft 1.12 and apply patch files to it**
  - **Source code to provide the LWJGL keyboard, mouse, and OpenGL APIs in a browser**
  - **Source code for an OpenGL 1.3 emulator built on top of WebGL 2.0**
  - **Patch files to mod the Minecraft 1.9 source code to make it browser compatible**
@@ -41,9 +41,16 @@ Set your EaglercraftX username to the same username as the vanilla minecraft acc
 A config guide will be added here too eventually
 
 ## Contributing:
-
+(If you want to contribute join this discord server)
 https://discord.gg/GMhmEWrr5d
+- DO NOT JOIN THE SERVER IF YOU WANT TO BOTHER THE TEAM OF DEVELOPERS.
+- THE MORE PEOPLE WILLING TO HELP WILL BE A HUGE HELP AND WILL MAKE THIS PROJECT RELEASE SOONER THAN EXPECTED.
 
+## Schedule:
+- Right now we are working on decompiling 1.12
+- After the client is finished we will consider adding voice chat.
 ## Developing a Client:
 
-To be determined
+Currently in development by aperson and other people willing to help.
+- About 3% done
+- Expected release is near the end of July
