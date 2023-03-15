@@ -14,8 +14,8 @@
  - **Utilities to decompile Minecraft 1.12 and apply patch files to it**
  - **Source code to provide the LWJGL keyboard, mouse, and OpenGL APIs in a browser**
  - **Source code for an OpenGL 1.3 emulator built on top of WebGL 2.0**
- - **Patch files to mod the Minecraft 1.9 source code to make it browser compatible**
- - **Browser-modified portions of Minecraft 1.9's open-source dependencies**
+ - **Patch files to mod the Minecraft 1.12 source code to make it browser compatible**
+ - **Browser-modified portions of Minecraft 1.12's open-source dependencies**
  - **Plugins for Minecraft servers to allow the eagler client to connect to them**
 
 ### This repository WILL NOT contain:
@@ -45,6 +45,7 @@ A config guide will be added here too eventually
 https://discord.gg/GMhmEWrr5d
 - DO NOT JOIN THE SERVER IF YOU WANT TO BOTHER THE TEAM OF DEVELOPERS.
 - THE MORE PEOPLE WILLING TO HELP WILL BE A HUGE HELP AND WILL MAKE THIS PROJECT RELEASE SOONER THAN EXPECTED.
+- IF YOU HAVE ANY SUGGESTIONS THEN JOIN THE SERVER
 
 ## Schedule:
 - Right now we are working on decompiling 1.12
