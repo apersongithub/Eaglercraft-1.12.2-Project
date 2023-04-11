@@ -56,16 +56,18 @@ A config guide will be added here too eventually
 Currently in development by aperson and other people willing to help.
 - About 3% done
 - Expected release is near the end of July
-##plans
 
-1. Deeply examine EC's source code to get a glimpse of what we're dealing with
-2. Use the EC's source code for help creating the 1.12 client
-3. Get the source code for 1.12
-4. Add opengl emulators and apis
-5. Making it compatible for browsers
+## Plans
+
+1. Deeply examine EC's source code to get a glimpse of what we're dealing with ...
+2. Use the EC project's source code for help creating the 1.12 client ...
+3. Get the source code for 1.12 ...
+4. Add openGL emulators and APIs ...
+5. Making it compatible for browsers ...
 
 ...
-6. create a bungee server
+6. Create a bungee server
+7. Try to avoid getting a DMCA from Microsoft and/or Mojang.
 
 ----------------------------------------------------
 
