@@ -41,7 +41,8 @@ Set your EaglercraftX username to the same username as the vanilla minecraft acc
 A config guide will be added here too eventually
 
 ## Contributing:
-(If you want to contribute join this discord server)
+~~(If you want to contribute, then join the discord server below):~~
+<br>
 ~~https://discord.gg/GMhmEWrr5d~~
 - ATTENTION: SOME IDIOT REPORTED THE DISCORD, SO WE CURRENTLY DO NOT HAVE A SERVER.
 - DO NOT JOIN THE SERVER IF YOU WANT TO BOTHER THE TEAM OF DEVELOPERS.
