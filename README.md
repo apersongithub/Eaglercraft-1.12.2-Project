@@ -42,7 +42,7 @@ A config guide will be added here too eventually
 
 ## Contributing:
 (If you want to contribute join this discord server)
-https://discord.gg/GMhmEWrr5d
+(server deleted)
 - DO NOT JOIN THE SERVER IF YOU WANT TO BOTHER THE TEAM OF DEVELOPERS.
 - THE MORE PEOPLE WILLING TO HELP WILL BE A HUGE HELP AND WILL MAKE THIS PROJECT RELEASE SOONER THAN EXPECTED.
 
