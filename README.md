@@ -3,7 +3,7 @@
 # New Discord Server
 - Join the new server [discord.gg/vdtrhxJVTM](https://discord.gg/vdtrhxJVTM)
 
-![EaglercraftX 1.12 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
+![Eaglercraft 1.12 Screenshot Main Menu](https://media.discordapp.net/attachments/1105888692956049618/1207011235074412565/eagler12-480p.png?ex=65de17cf&is=65cba2cf&hm=557249f6d26b806eb2517ae8ef3b544321d318ea5d31be9f786624190e1c4ef7&=&format=png&quality=lossless&width=1017&height=575)
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEE ASSIGNED TO STALK ME:
 
