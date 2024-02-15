@@ -1,4 +1,4 @@
-# Eaglercraft 1.12 Project
+# Eaglercraft 1.12.2 Project
 - files are gone due to copyright!
 # New Discord Server
 - Join the new server [discord.gg/vdtrhxJVTM](https://discord.gg/vdtrhxJVTM)
